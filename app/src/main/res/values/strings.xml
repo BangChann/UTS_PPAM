@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">Pizza Restaurant</string>
-    <string name="text_intro">Restaurant Eka</string>
+    <string name="text_intro">Restaurant Chandra</string>
     <string name="store_1">Store</string>
     <string name="name_label">Your Name</string>
     <string name="next">Submit</string>
-    <string name="hello">Hello, Eka</string>
+    <string name="hello">Hello, Chandra</string>
     <string name="store_2">Cihampelas</string>
     <string name="store_3">Location</string>
     <string name="store_4">Find On Maps</string>
@@ -20,7 +20,7 @@
     <string name="back">Back</string>
     <string name="orederdet">Order Detail</string>
     <string name="ordered">"
-        Eka
+        Chandra
         Store: Cihampelas
         Kue Kastengel sudah dipesan "</string>
     <string name="kirimdet">Pengiriman</string>
@@ -29,7 +29,7 @@
     <string name="done">done</string>
     <string name="todo">TODO</string>
     <string name="todo1">TODO</string>
-    <string name="order_message">"Terima kasih Eka sudah memesan  ditoko kami, pesanan Pepperoni Pizza  anda dikirim menggunakan Fast Delivery "</string>
+    <string name="order_message">"Terima kasih Chandra sudah memesan  ditoko kami, pesanan Pepperoni Pizza  anda dikirim menggunakan Fast Delivery "</string>
     <string-array name="spin_1">
         <item>Bandung</item>
         <item>Bogor</item>
